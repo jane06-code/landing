@@ -1,0 +1,14 @@
+
+.container{
+    margin: auto;
+    width: 500px;
+}
+.container {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.container-sm {
+  margin: 0;
+  width: 300px;
+}
